@@ -24,5 +24,9 @@ Sahayak Nepal brings essential everyday services into one platform.
 ## Status
 🚧 In development
 
-## Author
-Yudin Khatiwada – [GitHub](https://github.com/RootYudin) · [LinkedIn](https://linkedin.com/in/yudin-khatiwada-b952483a2)
+## Authors
+
+| Name | GitHub | LinkedIn |
+|------|--------|----------|
+| Sanjeev Joshi | [sanjeevjoshi274-oss](https://github.com/sanjeevjoshi274-oss) | [Profile](https://linkedin.com/in/sanjeev-joshi-8aa62239b) |
+| Yudin Khatiwada | [RootYudin](https://github.com/RootYudin) | [Profile](https://linkedin.com/in/yudin-khatiwada-b952483a2) |
